@@ -10,7 +10,8 @@
 </div>
 
 
-Я Аналитик данных <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+Я Аналитик данных <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> с опытом более полтора года.
+- :zap: Мое основное увлечение спортивная статистика.
 
 
 
