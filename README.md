@@ -24,11 +24,19 @@
 ![SQL](https://img.shields.io/badge/-SQL-00A4EF?style=for-the-badge&logo=SQL)
 ![Redash](https://img.shields.io/badge/-Redash-E44D26?style=for-the-badge&logo=Redash)
 ![EXCEL](https://img.shields.io/badge/-EXCEL-FF?style=for-the-badge&logo=EXCEL)
-![EXCEL](https://img.shields.io/badge/-Google_Sheets-FFF?style=for-the-badge&logo=GoogleSheets)
 ![GIT](https://img.shields.io/badge/-GIT-FFF?style=for-the-badge&logo=GIT)
 ![API](https://img.shields.io/badge/-API-FF6600?style=for-the-badge&logo=API)
 ![Airflow](https://img.shields.io/badge/-Airflow-77DDE7?style=for-the-badge&logo=AIRFLOW)
 ![Docker](https://img.shields.io/badge/Docker-316192?style=for-the-badge&logo=docker&logoColor=white)
+
+
+https://github-readme-streak-stats.herokuapp.com/?user=your-github-username
+
+
+
+
+
+
 
 
 
