@@ -9,7 +9,7 @@
   </a>
 </div>
 
-https://komarev.com/ghpvc/?username=имя пользователя на GitHub
+https://komarev.com/ghpvc/?username=todur8
 
 
 
