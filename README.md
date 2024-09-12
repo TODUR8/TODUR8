@@ -6,7 +6,7 @@
   </a>
 
   </a>
-  <a href="your-telegram-URL">
+  <a href="@todur8">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>alt="Twitter Badge"/>
   </a>
 </div>
