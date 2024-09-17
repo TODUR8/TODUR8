@@ -12,9 +12,10 @@
 
 ### О себе
 
-Меня зовут Федор, с октября 2022 года я изучаю аналитику данных. Ранее я занимался расчетом несущих металлических конструкций для промышленных объектов.
+Меня зовут Федор, с октября 2022 года я изучаю аналитику данных. Ранее я занимался расчетом несущих металлических конструкций промышленных объектов.
 Для погружения в анализ данных я прошел несколько онлайн курсов, с помощью которых освоил Python, SQL, математическую статистику, теорию вероятности, продуктовые метрики и фреймворки для развития продукта. 
 С мая 2023 я по текущий момент я работаю в сети ателье EcoColor на должности Руководитель проекта / Аналитик данных. 
+
 Стек: Excel, Python.
 - Сбор и анализ данных о доходах и затратах компании, производительности сотрудников,
 эффективности рекламных кампаний, рентабельности отдельных видов услуг.
@@ -37,7 +38,7 @@
 <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=black"/> 
 <img src="https://img.shields.io/badge/postgresql-B0C4DE?style=for-the-badge&logo=postgresql&logoColor=4169E1"/> 
 <img src="https://img.shields.io/badge/clickhouse-B0C4DE?style=for-the-badge&logo=clickhouse&logoColor=FFCC01"/>
-![Redash](https://img.shields.io/badge/-Redash-E44D26?style=for-the-badge&logo=Redash)
+
 
 ### Дополнительные инструменты
 <img src="https://img.shields.io/badge/git-B0C4DE?style=for-the-badge&logo=git&logoColor=F05032"/> 
@@ -53,20 +54,6 @@
 
 
 
-- ###  🛠️ Languages and Tools :  
-
-
-
-![Python](https://img.shields.io/badge/-Python-FFF?style=for-the-badge&logo=python)
-![Jupyter](https://img.shields.io/badge/-Jupyter_Notebook-FFF?style=for-the-badge&logo=Jupyter)
-![Clickhouse](https://img.shields.io/badge/-Clickhouse-FFF?style=for-the-badge&logo=Clickhouse)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-FFF?style=for-the-badge&logo=PostgreSQL)
-![SQL](https://img.shields.io/badge/-SQL-00A4EF?style=for-the-badge&logo=SQL)
-![EXCEL](https://img.shields.io/badge/-EXCEL-FF?style=for-the-badge&logo=EXCEL)
-![GIT](https://img.shields.io/badge/-GIT-FFF?style=for-the-badge&logo=GIT)
-![API](https://img.shields.io/badge/-API-FF6600?style=for-the-badge&logo=API)
-![Airflow](https://img.shields.io/badge/-Airflow-77DDE7?style=for-the-badge&logo=AIRFLOW)
-![Docker](https://img.shields.io/badge/Docker-316192?style=for-the-badge&logo=docker&logoColor=white)
 
 
 
