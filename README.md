@@ -10,6 +10,19 @@
 </div>
 
 
+### О себе
+
+Меня зовут Федор, с октября 2022 года я изучаю аналитику данных. Ранее я занимался расчетом несущих металлических конструкций для промышленных объектов.
+Для погружения в анализ данных я прошел несколько онлайн курсов, с помощью которых освоил Python, SQL, математическую статистику, теорию вероятности, продуктовые метрики и фреймворки для развития продукта. 
+С мая 2023 я по текущий момент я работаю в сети ателье EcoColor на должности Руководитель проекта / Аналитик данных. 
+Стек: Excel, Python.
+- Сбор и анализ данных о доходах и затратах компании, производительности сотрудников,
+эффективности рекламных кампаний, рентабельности отдельных видов услуг.
+- Конкурентный анализ, ценообразование.
+- Составление финансовой отчетности, отчетов по продажам, выручке, доходах и расходах.
+- Прогнозирование объемов материала для закупки на квартал, анализ складских запасов.
+
+
 Я Аналитик данных <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> с опытом более полтора года.
 - :zap: Люблю спортивную статистику.
 
@@ -28,6 +41,9 @@
 ![API](https://img.shields.io/badge/-API-FF6600?style=for-the-badge&logo=API)
 ![Airflow](https://img.shields.io/badge/-Airflow-77DDE7?style=for-the-badge&logo=AIRFLOW)
 ![Docker](https://img.shields.io/badge/Docker-316192?style=for-the-badge&logo=docker&logoColor=white)
+
+
+
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=TODUR8&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
