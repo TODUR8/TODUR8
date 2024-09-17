@@ -23,8 +23,35 @@
 - Прогнозирование объемов материала для закупки на квартал, анализ складских запасов.
 
 
-Я Аналитик данных <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> с опытом более полтора года.
-- :zap: Люблю спортивную статистику.
+### стек технологий
+
+### Питон и приложения
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFA500"/> 
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Telegram API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+<img src="https://img.shields.io/badge/requests-3776AB?style=for-the-badge"/> 
+<img src="https://img.shields.io/badge/Beautiful Soup-3776AB?style=for-the-badge"/> 
+
+### Работа с таблицами и базами данных
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=FFA500"/> 
+<img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=black"/> 
+<img src="https://img.shields.io/badge/postgresql-B0C4DE?style=for-the-badge&logo=postgresql&logoColor=4169E1"/> 
+<img src="https://img.shields.io/badge/clickhouse-B0C4DE?style=for-the-badge&logo=clickhouse&logoColor=FFCC01"/>
+![Redash](https://img.shields.io/badge/-Redash-E44D26?style=for-the-badge&logo=Redash)
+
+### Дополнительные инструменты
+<img src="https://img.shields.io/badge/git-B0C4DE?style=for-the-badge&logo=git&logoColor=F05032"/> 
+<img src="https://img.shields.io/badge/jupyter-B0C4DE?style=for-the-badge&logo=jupyter&logoColor=F37626"/>
+<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> 
+<img src="https://img.shields.io/badge/airflow-FF4500?style=for-the-badge&logo=apacheairflow&logoColor=black"/>
+<img src="https://img.shields.io/badge/pytest-3776AB?style=for-the-badge"/> 
+
+### Машинное обучение
+<img src="https://img.shields.io/badge/sklearn-3776AB?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/> 
+<img src="https://img.shields.io/badge/catboost-FFA500?style=for-the-badge"/> 
+<img src="https://img.shields.io/badge/xgboost-26A5E4?style=for-the-badge"/>
+
+
 
 - ###  🛠️ Languages and Tools :  
 
@@ -35,7 +62,6 @@
 ![Clickhouse](https://img.shields.io/badge/-Clickhouse-FFF?style=for-the-badge&logo=Clickhouse)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-FFF?style=for-the-badge&logo=PostgreSQL)
 ![SQL](https://img.shields.io/badge/-SQL-00A4EF?style=for-the-badge&logo=SQL)
-![Redash](https://img.shields.io/badge/-Redash-E44D26?style=for-the-badge&logo=Redash)
 ![EXCEL](https://img.shields.io/badge/-EXCEL-FF?style=for-the-badge&logo=EXCEL)
 ![GIT](https://img.shields.io/badge/-GIT-FFF?style=for-the-badge&logo=GIT)
 ![API](https://img.shields.io/badge/-API-FF6600?style=for-the-badge&logo=API)
