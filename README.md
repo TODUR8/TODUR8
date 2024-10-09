@@ -41,11 +41,10 @@
 <img src="https://img.shields.io/badge/sklearn-3776AB?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/> <img src="https://img.shields.io/badge/catboost-FFA500?style=for-the-badge"/>  <img src="https://img.shields.io/badge/xgboost-26A5E4?style=for-the-badge"/>
 
 
+### :book: Мои проекты:
 |Название проекта| Описание проекта| Стек|
 |----------------|-----------------|-----|
-|сервис доставки продуктов  (__[github](https://github.com/vickiticy/for_project_1)__)|Расчет и анализ основных продуктовых метрик. Разработка базового дашборда и дашборд по маркетинговым кампаниям.|PostgreSQL.
-Redash.
-PgAdmin.|
+|[Сервис доставки продуктов](https://github.com/DimDolino/Find_the_Thief)|Расчет и анализ основных продуктовых метрик. Разработка базового дашборда и дашборд по маркетинговым кампаниям.|**PostgreSQL** **Redash** **PgAdmin**|
 
 
 
