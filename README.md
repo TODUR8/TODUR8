@@ -45,8 +45,8 @@
 |Название проекта| Описание проекта| Стек|
 |----------------|-----------------|-----|
 |[Сервис доставки продуктов](https://github.com/TODUR8/SQL)|Расчет и анализ основных продуктовых метрик. Разработка базового дашборда и дашборд по маркетинговым кампаниям.|**PostgreSQL** **Redash** **PgAdmin**|
-|[messenger](https://github.com/TODUR8/messenger)|Разработка базового дашборда. График Retention. Проверка гипотез, анализ результатов А/B-теста.|**PostgreSQL** **Superset** |
-|[sports-statistics](https://github.com/TODUR8/sports-statistics)|Исследование основных статистических показателей.|**Pandas** **BeautifulSoup4** |
+|[messenger](https://github.com/TODUR8/messenger)|Разработка базового дашборда. График Retention. Проверка гипотез, анализ результатов А/B-теста.|**PostgreSQL** **Superset** **Python** **Pandas** **numpy** **scipy** **hashlib** **seaborn** **matplotlib** |
+|[sports-statistics](https://github.com/TODUR8/sports-statistics)|Исследование основных статистических показателей.|**Python** **BeautifulSoup4** **Pandas** **seaborn**|
 
 
 
