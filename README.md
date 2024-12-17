@@ -46,6 +46,7 @@
 |----------------|-----------------|-----|
 |[Сервис доставки продуктов](https://github.com/TODUR8/SQL)|Расчет и анализ основных продуктовых метрик. Разработка базового дашборда и дашборд по маркетинговым кампаниям.|**PostgreSQL** **Redash** **PgAdmin**|
 |[messenger](https://github.com/TODUR8/messenger)|Разработка базового дашборда. График Retention. Проверка гипотез, анализ результатов А/B-теста.|**PostgreSQL** **Superset** **Python** **Pandas** **numpy** **scipy** **hashlib** **seaborn** **matplotlib** |
+|[Mobile-application-analysis](https://github.com/TODUR8/Mobile-application-analysis)|Написание функции retention. проведение А/B теста.|**Python** **Pandas** **numpy** **scipy** **seaborn** **matplotlib**|
 |[sports-statistics](https://github.com/TODUR8/sports-statistics)|Исследование основных статистических показателей.|**Python** **BeautifulSoup4** **Pandas** **seaborn**|
 
 
