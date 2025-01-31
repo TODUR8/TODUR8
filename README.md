@@ -44,6 +44,7 @@
 ### :book: Мои проекты:
 |Название проекта| Описание проекта| Стек|
 |----------------|-----------------|-----|
+|[Ателье по пошиву и ремонту одежды](https://github.com/TODUR8/Tailoring-studio/blob/main/README.md)|Цель проекта – создать интерактивный дашборд, позволяющих руководству принимать взвешенные бизнес-решения на основе наглядного анализа ключевых метрик. |**Power BI** **SQL-база данных**|
 |[Сервис доставки продуктов](https://github.com/TODUR8/SQL)|Расчет и анализ основных продуктовых метрик. Разработка базового дашборда и дашборд по маркетинговым кампаниям.|**PostgreSQL** **Redash** **PgAdmin**|
 |[messenger](https://github.com/TODUR8/messenger)|Разработка базового дашборда. График Retention. Проверка гипотез, анализ результатов А/B-теста.|**PostgreSQL** **Superset** **Python** **Pandas** **numpy** **scipy** **hashlib** **seaborn** **matplotlib** |
 |[Mobile-application-analysis](https://github.com/TODUR8/Mobile-application-analysis)|Написание функции retention. проведение А/B теста.|**Python** **Pandas** **numpy** **scipy** **seaborn** **matplotlib**|
