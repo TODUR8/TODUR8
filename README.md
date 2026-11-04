@@ -31,4 +31,11 @@
 <img src="https://img.shields.io/badge/git-B0C4DE?style=for-the-badge&logo=git&logoColor=F05032"/> <img src="https://img.shields.io/badge/jupyter-B0C4DE?style=for-the-badge&logo=jupyter&logoColor=F37626"/> <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/airflow-FF4500?style=for-the-badge&logo=apacheairflow&logoColor=black"/> <img src="https://img.shields.io/badge/pytest-3776AB?style=for-the-badge"/> 
 
 ### Машинное обучение
-<img src="https://img.shields.io/badge/sklearn-3776AB?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/> <img
+<img src="https://img.shields.io/badge/sklearn-3776AB?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/> <img src="https://img.shields.io/badge/catboost-FFA500?style=for-the-badge"/> <img src="https://img.shields.io/badge/xgboost-26A5E4?style=for-the-badge"/>
+
+
+### :book: Мои проекты (в порядке убывания):
+
+| Название проекта | Описание проекта | Стек |
+|------------------|------------------|------|
+| [Logic Puzzles: баланс сложности уровней](https://github.com/TODUR8/logic-puzzles-level-balance) | Исследование «стоп-шагов» в мобильной головоломке и A/B-тест пакета правок 9 уровней на 320 тыс. игроков: D7 retention +7,9%, ARPU D7 +8,6%, вариант раскатан на 100%. Очистка данных, bootstrap, поправка Холма, проверки устойчивости, модель LTV180 (≈ +$70 тыс.) и бизнес-презентация. | **Python** **pandas** **SciPy** **statsmodels** **SQL (BigQuery)** **Jupyter** **pytest** |
